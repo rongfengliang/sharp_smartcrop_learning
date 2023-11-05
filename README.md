@@ -1,0 +1,1 @@
+# sharp + smartcrop-sharp learning
