@@ -1,0 +1,10 @@
+{
+  "name": "nodejs-images-sharp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.32.6",
+    "smartcrop-sharp": "^2.0.8"
+  }
+}
